@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+
+  "name": "STEAMplug bg",
+  "version": "0.0.1",
+  "description": "STEAMplug IDE background image changer.",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://*.steamplug.com/*"]
+  }]
+
+}

@@ -1,0 +1,11 @@
+/*
+https://images.alphacoders.com/130/1300151.png
+https://images2.alphacoders.com/919/919163.jpg
+https://images3.alphacoders.com/905/905256.png
+https://images5.alphacoders.com/603/603445.jpg
+ */
+.monaco-editor-background {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://images.alphacoders.com/130/1300151.png");
+    background-size: calc(100vw - 300px);
+    position: absolute;
+}
