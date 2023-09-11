@@ -2,7 +2,7 @@
 
 ## Installation Instructions
 
-1. Download code
+1. Download latest release
 2. Pick an image and paste its url into the **styles.css** file
 ```
 ...url("[REPLACE WITH IMAGE URL]");
