@@ -1,5 +1,7 @@
 # STEAMplug Background Image
 
+======================================================================
+
 ## Installation Instructions
 
 1. Download latest release
