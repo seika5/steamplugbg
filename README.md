@@ -13,9 +13,3 @@
 4. Click **Load unpacked**
 
 5. Select the directory
-
-===============================
-
-## Usage
-
-1. Put image URL in text box and click **save**
