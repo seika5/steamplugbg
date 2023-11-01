@@ -8,7 +8,7 @@
 
 2. Go to browser's extentions settings
 
-3. Turn on **developer mode**
+3. Turn on **Developer mode**
 
 4. Click **Load unpacked**
 
