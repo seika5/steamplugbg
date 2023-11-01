@@ -1,17 +1,21 @@
 # STEAMplug Background Image
 
+===============================
+
 ## Installation Instructions
 
 1. Download latest release
 
-2. Pick an image and paste its url into the **styles.css** file
-```
-...url("[REPLACE WITH IMAGE URL]");
-```
+2. Go to browser's extentions settings
 
-### Opera
+3. Turn on **Developer mode**
 
-3. Go to browser's extentions settings and click **Load unpacked**
+4. Click **Load unpacked**
 
-4. Select the directory
+5. Select the directory
 
+===============================
+
+## Usage
+
+1. Put image URL in text box and click **save**
