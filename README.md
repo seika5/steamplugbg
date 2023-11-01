@@ -6,14 +6,16 @@
 
 1. Download latest release
 
-### Opera
+2. Go to browser's extentions settings
 
-2. Go to browser's extentions settings and click **Load unpacked**
+3. Turn on **developer mode**
 
-3. Select the directory
+4. Click **Load unpacked**
+
+5. Select the directory
 
 ===============================
 
 ## Usage
 
-1. Put in Image URL and click 'save'
+1. Put image URL in text box and click **save**
