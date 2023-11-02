@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "STEAMplug BG",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Change the background image in your STEAMplug code editor.",
 
   "content_scripts": [

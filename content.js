@@ -1,11 +1,15 @@
 window.onmouseover = function() {
     // Background image
     chrome.storage.local.get('img', function (result) {
+        var ele = document.querySelectorAll(".monaco-editor-background");
         if (result.img) {
-            document.querySelector(".monaco-editor-background").style.backgroundImage
-                = 'linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("' + result.img + '")';
+            for (var i = 0; i < ele.length; i++) {
+                ele[i].style.backgroundImage = 'linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("' + result.img + '")';
+            }
         } else {
-            document.querySelector(".monaco-editor-background").style.backgroundImage = "";
+            for (var i = 0; i < ele.length; i++) {
+                ele[i].style.backgroundImage = '';
+            }
         }
     });
 
